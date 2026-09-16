@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // لو اسم الريبو مختلف عن "story-tree-game"، غيّر السطر ده يطابقه
 export default defineConfig({
   plugins: [react()],
-  base: "/story-tree-game/",
+  base: "/vylor-game/",
 });
